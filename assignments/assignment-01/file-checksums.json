@@ -240,11 +240,6 @@
     "sha256": "d82cc04f274a5bee5863864b4143a20cf6a5a8e005f185235cf5caaee2a046af"
   },
   {
-    "path": "models/processed/mesh-checks.json",
-    "bytes": 1181,
-    "sha256": "ba51a3c77d68cf99fec6d19d40815c5462c129d1180afb3941da298d05982018"
-  },
-  {
     "path": "models/realityscan/Rei.mtl",
     "bytes": 204,
     "sha256": "f305228d887449ea65d1a5e399125944ec6815f5a455d421d7bafd7b590f48ad"
@@ -266,18 +261,18 @@
   },
   {
     "path": "README.en.md",
-    "bytes": 11106,
-    "sha256": "5730c7f1673bfb32ecd66a9384f1d6768229037e5f802e997e67d68886b25280"
+    "bytes": 9262,
+    "sha256": "5cdd2039b14d2a44e0407853c4bc90e5ef765d9d896ae3e2eb6d7c4a51150a3b"
   },
   {
     "path": "README.md",
-    "bytes": 10006,
-    "sha256": "51468648524a881a37b8e86f6136be8defc55c9587ce11630ee0415e80426cc2"
+    "bytes": 8535,
+    "sha256": "93a222904c798ba1dfab61e51f47086e693145e508c819d42bca3ac6bb41598b"
   },
   {
     "path": "scan-20261116-bilingual-review.html",
-    "bytes": 14441347,
-    "sha256": "90e28931ecba3f3c82a6c6d284efe019a73a89e69e850634a52c0b331c5a402c"
+    "bytes": 14437746,
+    "sha256": "faf3e006d6ed9ea4c7096a42f44c2ba9796c23004591b4f5a8d3d00c345ba168"
   },
   {
     "path": "source/record-original.txt",

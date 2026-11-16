@@ -106,16 +106,13 @@ Finally, after checking the point cloud four or five times, I generated the mode
 
 ![白模](images/white.jpg)
 
-## 9. Mesh processing, base combination and print preparation
+## 9. Tidying up the model and adding a base in Blender
 
-1. **Workflow**: Blender 4.5.9 ran Python scripts in background command-line mode for cleanup, scaling, base modelling, combination and STL export.
-2. **Cleanup and scale**: Part of the captured ground sheet was removed, the main body retained, and voxel remeshing and smoothing applied. The historical script specifies a 0.6 mm voxel size and 10 smoothing iterations, followed by scaling the longest horizontal dimension to 120 mm. The untextured mesh still has rough scan surfaces, residual ground geometry and distorted detail.
-3. **Combining another model**: A separately modelled rectangular base was added. The scanned body overlapped the base and was combined through a Boolean union. The original combined base has bevelled edges and “REI 2026” lettering. A separate simplified rectangular base STL is also provided, measuring 135.088 × 138 × 8 mm.
-4. **Export checks and corrections**: The old `02_plinth_base.stl` accidentally contained the body. The uploaded version corrects this to a standalone base. The combined STL initially had 28 non-manifold edges. Retaining the main closed edge-connected component and removing 68 residual triangles resolved these edges. These additional checks used Python and NumPy; the measurements are recorded in the report.
-5. **Current result**: The final combined piece measures approximately 135.088 × 138 × 75.845 mm and contains 338,330 triangles. The exported mesh has 0 boundary edges, 0 non-manifold edges and 0 degenerate faces. The final piece has one edge-connected component.
-6. **Limits of print preparation**: Basic closure and mesh topology checks are complete. Slicing and physical printing have not been performed, and comprehensive self-intersection, wall-thickness and overhang checks remain. The next step is to confirm millimetre units, orientation, supports and first-layer contact in a slicer. Surface roughness and missing detail still need refinement.
+I imported the scanned model into Blender and made some simple adjustments by hand. I removed unwanted parts, adjusted the size, and tried to make the surface a little smoother. The result looked tidier than the original export, but the surface was still rough and some details were missing.
 
-The following are geometry previews generated from the files using consistent untextured shading. They are not screenshots of software operations or photographs of a physical print.
+I then added a simple rectangular base, adjusted the positions, and combined the scan with the base to make a small display piece. Finally, I saved the Blender project and exported the model as an STL file.
+
+Below are previews of the model before and after editing, and the combined result.
 
 | Original scan | After cleanup and scaling |
 | --- | --- |
@@ -133,14 +130,13 @@ The following are geometry previews generated from the files using consistent un
 
 | File | Contents |
 | --- | --- |
-| [Final combined STL (ZIP)](downloads/display-piece.zip) | Corrected scanned body and base combination, in mm |
+| [Final combined STL (ZIP)](downloads/display-piece.zip) | STL of the model combined with its base |
 | [Cleaned body STL (ZIP)](downloads/clean-model.zip) | Scaled body mesh |
-| [Separate simplified base STL](models/processed/02_plinth_base.stl) | Rectangular base; differs from the bevelled, lettered base in the original combination |
-| [Mesh check report](models/processed/mesh-checks.json) | Basic topology checks for the three exported files |
+| [Separate simplified base STL](models/processed/02_plinth_base.stl) | A separate simple rectangular base |
 | [Original RealityScan export (ZIP)](downloads/realityscan-original.zip) | Rei.obj, Rei.mtl and two original 8K texture maps; keep together after extraction |
 | [POP2 scan 03 (ZIP)](downloads/pop2-scan-03.zip) / [scan 04 (ZIP)](downloads/pop2-scan-04.zip) | Two original PLY scan exports |
-| [Blender combination project (ZIP)](downloads/blender-project.zip) | stage3_display_piece.blend before the additional corrections; use the final combined STL above for submission |
+| [Blender combination project (ZIP)](downloads/blender-project.zip) | Saved Blender project; see the STL download above for the final exported model |
 | [Original Word diary](source/scan-diary-original.docx) | Source of the complete Chinese diary |
 | [Original material inventory](source-inventory.csv) | Inventory of the original scan materials |
 
-The original photographs, videos and complete Revo Scan cache project remain local. This page displays selected process photographs and additional geometry previews, with downloadable scan outputs and model files listed above.
+The original photographs, videos and Revo Scan project are kept locally. Scan outputs and model files can be downloaded above.

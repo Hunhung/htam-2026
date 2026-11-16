@@ -11,4 +11,4 @@
 
 [中文记录](assignments/assignment-01/README.md) · [English](assignments/assignment-01/README.en.md)
 
-记录包含扫描尝试、问题与心得、模型处理、底座组合、检查结果，以及成果文件下载。
+记录包含扫描尝试、问题与心得、Blender 手动整理、底座组合，以及模型文件下载。
