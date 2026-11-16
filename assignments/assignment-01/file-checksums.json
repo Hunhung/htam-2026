@@ -1,13 +1,13 @@
 [
   {
     "path": "README.en.md",
-    "bytes": 9243,
-    "sha256": "b9cbba263f2ef0408ddbd5efb557d0c32ecd01e18acdf9ede3526545b5441536"
+    "bytes": 9707,
+    "sha256": "16c1e6ae3eef6990bf0961ba87d1f694ba04bd9a1bd10dbf52404c8fd850f449"
   },
   {
     "path": "README.md",
-    "bytes": 8549,
-    "sha256": "d0712297386b76441a474562fc7eebd9a7dae14506010936ed94c16ed1235341"
+    "bytes": 8946,
+    "sha256": "f622904b7a15544bce183536e3e2d6a9adb909b5179f20cd47e228fa38170e7a"
   },
   {
     "path": "downloads/blender-project.zip",
@@ -271,8 +271,8 @@
   },
   {
     "path": "scan-20261116-bilingual-review.html",
-    "bytes": 15874422,
-    "sha256": "0acff90dd77cde3fd93df8e8bf63de76c6fc46dddeb46b3a8b6c5655655900f8"
+    "bytes": 15875664,
+    "sha256": "6437bbaa4dcd25a16782b50112bcda79c4917a8aedfc2203b04fec68ab904537"
   },
   {
     "path": "source-inventory.csv",

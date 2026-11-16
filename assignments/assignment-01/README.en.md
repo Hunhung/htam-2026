@@ -108,7 +108,9 @@ Finally, after checking the point cloud four or five times, I generated the mode
 
 ## 9. Tidying up the model and adding a base in Blender
 
-I imported the scanned model into Blender and made some simple adjustments by hand. I removed unwanted parts, adjusted the size, and tried to make the surface a little smoother. The result looked tidier than the original export, but the surface was still rough and some details were missing.
+> **Current status: work in progress.** The cleanup and scaling in Blender are not finished yet. The backing board the object was scanned on has not been removed, overlapping faces remain where the model meets the base, and both scale and placement still need adjustment. This is an interim result; the model will be reworked and re-exported later.
+
+I imported the scanned model into Blender and made some simple adjustments by hand. I tried to remove unwanted parts, adjusted the size, and made the surface a little smoother. The result looked tidier than the original export, but the surface was still rough and some details were missing.
 
 I then added a simple rectangular base, adjusted the positions, and combined the scan with the base to make a small display piece. Finally, I saved the Blender project and exported the model as an STL file.
 
@@ -127,6 +129,8 @@ Below are previews of the model before and after editing, and the combined resul
 | ![Front](images/model-final-front.jpg) | ![Back](images/model-final-back.jpg) | ![Top](images/model-final-top.jpg) |
 
 ## Downloads
+
+> All model files below are interim versions; they will be updated once the cleanup and scaling are finished.
 
 | File | Contents |
 | --- | --- |

@@ -12,3 +12,5 @@
 [中文记录](assignments/assignment-01/README.md) · [English](assignments/assignment-01/README.en.md)
 
 记录包含扫描尝试、问题与心得、Blender 手动整理、底座组合，以及模型文件下载。
+
+> 状态：Blender 里的清理与缩放仍在调整中，相关模型文件为阶段性版本。
