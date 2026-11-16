@@ -1,0 +1,140 @@
+﻿原始路径,字节数,类型,仓库状态,仓库位置或说明
+261116 3d扫描记录.docx,15683,原始文字记录,已收入仓库,source/scan-diary-original.docx; source/record-original.txt
+3d扫描记录照片+x/手机扫描操作 (1).PNG,5023469,过程照片与截图,已收入仓库,images/phone-start.jpg
+3d扫描记录照片+x/手机扫描操作 (2).PNG,8175682,过程照片与截图,已收入仓库,images/capture.jpg
+3d扫描记录照片+x/手机扫描操作 (3).PNG,538339,过程照片与截图,已收入仓库,images/phone-generation.jpg
+3d扫描记录照片+x/手机扫描操作 (4).PNG,586672,过程照片与截图,已收入仓库,images/cloud.jpg
+3d扫描记录照片+x/手机扫描操作 (5).PNG,930894,过程照片与截图,已收入仓库,images/settings.jpg
+3d扫描记录照片+x/手机扫描操作 (6).PNG,502822,过程照片与截图,已收入仓库,images/phone-cloudprogress.jpg
+3d扫描记录照片+x/手机扫描操作 (7).PNG,8716228,过程照片与截图,已收入仓库,images/unconnected.jpg
+3d扫描记录照片+x/手机扫描操作 (8).PNG,299641,过程照片与截图,已收入仓库,images/phone-completed.jpg
+mice/1116_03_mesh.ply,32049300,Revo Scan 工程与网格,已收入仓库,models/pop2/1116_03_mesh.ply
+mice/1116_04_mesh.ply,5603450,Revo Scan 工程与网格,已收入仓库,models/pop2/1116_04_mesh.ply
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/cache/frames.dataset,51871744,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/cache/global_register_pose.pose,23940,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/frameFlag.json,32,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/fuse.ply,12812150,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/fuse_mesh.ply,5603450,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/param/camparam.bin,2067,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/param/Distort.bin,20,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/param/LC_RT.bin,48,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/param/mapparamL.bin,148,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/param/mapparamR.bin,148,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/param/Pl.bin,40,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/param/Prgb.bin,40,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/param/Q.bin,64,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/param/Stream.bin,48,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/preview.png,464211,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/process.log,52,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/property.rvproj,1184,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/153ffe89-9e0e-4732-82c0-e1d8c245842a/raw_preview.ply,2695430,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/cache/frames.dataset,38825984,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/cache/global_register_pose.pose,30060,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/frameFlag.json,32,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/fuse.ply,23267390,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/fuse_mesh.ply,52052923,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/param/camparam.bin,2067,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/param/Distort.bin,20,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/param/LC_RT.bin,48,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/param/mapparamL.bin,148,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/param/mapparamR.bin,148,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/param/Pl.bin,40,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/param/Prgb.bin,40,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/param/Q.bin,64,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/param/Stream.bin,48,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/preview.png,931257,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/process.log,52,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/property.rvproj,1186,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/a9f8673a-4143-4a58-9210-822cdaf04abf/raw_preview.ply,630229,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/cache/frames.dataset,15761408,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/cache/global_register_pose.pose,12788,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/frameFlag.json,32,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/fuse.ply,9853238,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/fuse_mesh.ply,27237698,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/param/camparam.bin,2067,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/param/Distort.bin,20,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/param/LC_RT.bin,48,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/param/mapparamL.bin,148,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/param/mapparamR.bin,148,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/param/Pl.bin,40,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/param/Prgb.bin,40,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/param/Q.bin,64,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/param/Stream.bin,48,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/preview.png,1023899,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/process.log,0,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/property.rvproj,1185,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/aac4f1a9-8fff-4691-8fc8-187619d30f2b/raw_preview.ply,268597,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/cache/frames.dataset,33337344,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/cache/global_register_pose.pose,25436,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/frameFlag.json,32,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/fuse.ply,17645198,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/fuse_mesh.ply,32049300,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/param/camparam.bin,2067,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/param/Distort.bin,20,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/param/LC_RT.bin,48,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/param/mapparamL.bin,148,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/param/mapparamR.bin,148,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/param/Pl.bin,40,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/param/Prgb.bin,40,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/param/Q.bin,64,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/param/Stream.bin,48,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/preview.png,969539,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/process.log,52,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/property.rvproj,1185,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/data/bf558546-471a-4535-94b9-8e864ff432e3/raw_preview.ply,648253,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+mice/mice.revo,1216,Revo Scan 工程与网格,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+Rei/Rei.mtl,204,RealityScan 导出模型与贴图,已收入仓库,models/realityscan/Rei.mtl
+Rei/Rei.obj,17985249,RealityScan 导出模型与贴图,已收入仓库,models/realityscan/Rei.obj
+Rei/tex_u1_v1_diffuse.jpg,3729722,RealityScan 导出模型与贴图,已收入仓库,models/realityscan/tex_u1_v1_diffuse.jpg
+Rei/tex_u1_v1_normal.jpg,3364188,RealityScan 导出模型与贴图,已收入仓库,models/realityscan/tex_u1_v1_normal.jpg
+不平整的鼠标模型 (1).png,1261651,过程照片与截图,已收入仓库,images/mouse.jpg
+不平整的鼠标模型 (2).png,518658,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+不平整的鼠标模型 (3).png,1057431,过程照片与截图,已收入仓库,images/mouse-other.jpg
+不平整的鼠标模型.png,819178,过程照片与截图,已收入仓库,images/mouse-cloud.jpg
+失去的面部细节.png,2036686,过程照片与截图,已收入仓库,images/face.jpg
+失败的石膏模型 (1).png,863907,过程照片与截图,已收入仓库,images/plaster-side.jpg
+失败的石膏模型 (2).png,1140875,过程照片与截图,已收入仓库,images/plaster-front.jpg
+微信图片_20261116232548_837_63.jpg,980976,过程照片与截图,已收入仓库,images/result.jpg
+手机扫描鼠标 (1).jpg,3081658,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+手机扫描鼠标 (2).jpg,2688186,过程照片与截图,已收入仓库,images/phone-mouse.jpg
+手机扫描鼠标 (3).jpg,3137728,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+手机扫描鼠标 (4).jpg,3681692,过程照片与截图,已收入仓库,images/phone-mouse-alt.jpg
+手机扫描鼠标 (5).jpg,3569017,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+手机扫描鼠标 (6).jpg,3196572,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (1).jpg,3888398,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (10).jpg,4021429,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (11).jpg,4208363,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (12).jpg,3929759,过程照片与截图,已收入仓库,images/scan-setup-2.jpg
+扫描仪扫描 (13).jpg,3663663,过程照片与截图,已收入仓库,images/scan-setup-3.jpg
+扫描仪扫描 (14).jpg,4396246,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (15).jpg,3654959,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (16).jpg,4203144,过程照片与截图,已收入仓库,images/setup.jpg
+扫描仪扫描 (2).jpg,3589334,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (3).jpg,2966262,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (4).jpg,3588592,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (5).jpg,4268169,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (6).jpg,3158999,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (7).jpg,3543044,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (8).jpg,2955921,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描 (9).jpg,841700,过程照片与截图,已收入仓库,images/mobile-revo.jpg
+扫描仪扫描记录 (1).mp4,2506541,视频,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+扫描仪扫描记录 (2).mp4,2294299,视频,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+拼合模型 (1).png,1287461,过程照片与截图,已收入仓库,images/alignment.jpg
+拼合模型 (2).png,1082757,过程照片与截图,已收入仓库,images/alignment-alt.jpg
+白模.jpg,210791,过程照片与截图,已收入仓库,images/white.jpg
+连接电脑阶段 (1).jpg,4575400,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+连接电脑阶段 (10).jpg,3958726,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+连接电脑阶段 (11).jpg,3830377,过程照片与截图,已收入仓库,images/connection.jpg
+连接电脑阶段 (12).jpg,3493809,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+连接电脑阶段 (13).jpg,3298145,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+连接电脑阶段 (14).jpg,3606348,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+连接电脑阶段 (15).jpg,3445922,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+连接电脑阶段 (2).jpg,3012322,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+连接电脑阶段 (3).jpg,3629532,过程照片与截图,已收入仓库,images/device-view.jpg
+连接电脑阶段 (4).jpg,3893185,过程照片与截图,已收入仓库,images/cables.jpg
+连接电脑阶段 (5).jpg,4097045,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+连接电脑阶段 (6).jpg,3473653,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+连接电脑阶段 (7).jpg,3780327,过程照片与截图,已收入仓库,images/version.jpg
+连接电脑阶段 (8).jpg,2751985,过程照片与截图,已收入仓库,images/software-download.jpg
+连接电脑阶段 (9).jpg,4034927,过程照片与截图,原件保留本地，未上传,本地原目录保留；未提供完整原始归档下载
+错位的石膏模型.png,1147154,过程照片与截图,已收入仓库,images/offset.jpg

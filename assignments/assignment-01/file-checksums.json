@@ -1,0 +1,302 @@
+[
+  {
+    "path": "downloads/blender-project.zip",
+    "bytes": 7011412,
+    "sha256": "a5bf55f6b075a0820c0651d41453848f278fa330c41db02f51a378fde4d523e8"
+  },
+  {
+    "path": "downloads/clean-model.zip",
+    "bytes": 10384609,
+    "sha256": "bd8d7b8a5710a1c3b7753e48e031743ec9ed14997c850d9576aeabc72e820f89"
+  },
+  {
+    "path": "downloads/display-piece.zip",
+    "bytes": 8487205,
+    "sha256": "322670f8be39256f85334a3cb9d46f26beb00778cd33b72f37d549426d8b3b1f"
+  },
+  {
+    "path": "downloads/pop2-scan-03.zip",
+    "bytes": 21222735,
+    "sha256": "0a6cdbf4f4f298d73f32a772097bf1581be79910a5e4025f3c2dfdec52deadf5"
+  },
+  {
+    "path": "downloads/pop2-scan-04.zip",
+    "bytes": 3722774,
+    "sha256": "4bd7c33255ef44427475d4305552127efd2b64ec40f3d941ac2bead3aff077f7"
+  },
+  {
+    "path": "downloads/realityscan-original.zip",
+    "bytes": 11596273,
+    "sha256": "403bce07e0aaf41fbd98b213a5ae29f9bda3a52e52bd749a209f906cf61bc2a7"
+  },
+  {
+    "path": "images/alignment-alt.jpg",
+    "bytes": 170906,
+    "sha256": "a23f88fdea3b9f3c6706583f64de3d6f1cbf397310063656c2a213bb76a4c2b3"
+  },
+  {
+    "path": "images/alignment.jpg",
+    "bytes": 185262,
+    "sha256": "f75a9961eb2282f6e334b0425c74b4794ade59dbffb3915b2adf9db8aff95c29"
+  },
+  {
+    "path": "images/cables.jpg",
+    "bytes": 213862,
+    "sha256": "8b60f4b22622d000d64f7337e724830394d7229a91f0d04693b7cc22c816b8aa"
+  },
+  {
+    "path": "images/capture.jpg",
+    "bytes": 220914,
+    "sha256": "3687d79c407ca3dbb1dad6b134abffa67a4b2c5de8654aa41ef2514b088e5b53"
+  },
+  {
+    "path": "images/cloud.jpg",
+    "bytes": 199271,
+    "sha256": "06155c712afa6323e7498acbd00859bad962deff9801cf016a347ed4adcdb5a0"
+  },
+  {
+    "path": "images/connection.jpg",
+    "bytes": 281469,
+    "sha256": "e108a8f56ffebd27961a808ee36d6b08699c5ff8c4399775644ab3f4cdf2a576"
+  },
+  {
+    "path": "images/device-view.jpg",
+    "bytes": 247661,
+    "sha256": "d16e749107a8c446c35f1e04304d17b9868128135c0c317e59ee90b53c154dad"
+  },
+  {
+    "path": "images/face.jpg",
+    "bytes": 191025,
+    "sha256": "552839619e15b9164ebc3ef3fda1a4d3c05843b00a4c6724db164a117a7e8613"
+  },
+  {
+    "path": "images/mobile-revo.jpg",
+    "bytes": 121706,
+    "sha256": "a2c9baee4825c07e1c7fc1bc35ff67c5a4648f3e6ec8d54326c0e23b600cfb9e"
+  },
+  {
+    "path": "images/model-base.jpg",
+    "bytes": 33288,
+    "sha256": "64e6b23368be0e5754b1f5e0f3bfed281283fc9d4b3d16fe1269fc4dbc994d0d"
+  },
+  {
+    "path": "images/model-clean.jpg",
+    "bytes": 92260,
+    "sha256": "01a94336b23f218f2a9ba2a9f84889a5c31af35bcd4ea9df37304cd6138d8f71"
+  },
+  {
+    "path": "images/model-final-back.jpg",
+    "bytes": 42839,
+    "sha256": "8d097a9fd427475c150d550c6b147309c9e02a24cb939509aec906d067de3d8a"
+  },
+  {
+    "path": "images/model-final-front.jpg",
+    "bytes": 90757,
+    "sha256": "b678320d8b8655fa03358db9a216d6c5efe8bfee115ef0402fa0f96fae112865"
+  },
+  {
+    "path": "images/model-final-iso.jpg",
+    "bytes": 85442,
+    "sha256": "5205fa3c476e2daa3922659f4e628e0e22165b8d79e0bd10d19deb71c8c03c76"
+  },
+  {
+    "path": "images/model-final-top.jpg",
+    "bytes": 83184,
+    "sha256": "49463556ef82d1dfee5d2b83fd3278d3001ec35d55c3c12431aea32babc1efee"
+  },
+  {
+    "path": "images/model-raw.jpg",
+    "bytes": 110970,
+    "sha256": "f3c27f6750d78e1bf6730d291fa609d62c60a030d0806afd6e3facc28f263a01"
+  },
+  {
+    "path": "images/mouse-cloud.jpg",
+    "bytes": 117108,
+    "sha256": "ae18bb31097643e13c5aff48a2dcfd821044737a0fb0df22a0f5b27d4de7fbfe"
+  },
+  {
+    "path": "images/mouse-other.jpg",
+    "bytes": 140272,
+    "sha256": "bef0ac575d926194da1fd0bfa54c7d78fd0214e8f384ed125c2a13360e9f012d"
+  },
+  {
+    "path": "images/mouse.jpg",
+    "bytes": 150896,
+    "sha256": "b4824a9a48c0b139c45bdb9ce1a5423221036faff2faf76429bd66acf7424e1f"
+  },
+  {
+    "path": "images/offset.jpg",
+    "bytes": 141279,
+    "sha256": "39adf94a0c32d47411b47b7e05474aa71108159b044a0055fe0a4abf163ce0fc"
+  },
+  {
+    "path": "images/phone-cloudprogress.jpg",
+    "bytes": 154506,
+    "sha256": "531ae407980959205b9ce4e65f004ab4f7261b6163eef54459b703b5e16e4cbe"
+  },
+  {
+    "path": "images/phone-completed.jpg",
+    "bytes": 111116,
+    "sha256": "7c62d9ca69e6e262f794a016c766a59de696cd02394366a72a6d9f49ba0e1437"
+  },
+  {
+    "path": "images/phone-generation.jpg",
+    "bytes": 89792,
+    "sha256": "98977152afcff097b18d67adb0d6b659f0f710f0d8258e794bb8728d552fe5dc"
+  },
+  {
+    "path": "images/phone-mouse-alt.jpg",
+    "bytes": 189817,
+    "sha256": "70cdbad5a572dfdbd0ec6828d378b95c051461293fdafda5551962885472705f"
+  },
+  {
+    "path": "images/phone-mouse.jpg",
+    "bytes": 152825,
+    "sha256": "aaadb6ca322e5bcd2178f2dac7582baca3a21b38da3636ae83b0ed97dad5bb39"
+  },
+  {
+    "path": "images/phone-start.jpg",
+    "bytes": 146530,
+    "sha256": "75b9289321eec2843aeb73eeec7897d0f3e57ac641963959c84ed4682207a6f9"
+  },
+  {
+    "path": "images/plaster-front.jpg",
+    "bytes": 143116,
+    "sha256": "8cb91b047d796350a661f6960b94f1aac4a76b686304c785ec08f5bbd8108750"
+  },
+  {
+    "path": "images/plaster-side.jpg",
+    "bytes": 123892,
+    "sha256": "6e58a2dfb8d76de40aba523963ac84de45c335b3701ea997da85ffdfcecfb41b"
+  },
+  {
+    "path": "images/result.jpg",
+    "bytes": 187674,
+    "sha256": "4a07b83370b1b95fd26925abdb798095a032b847369bd64c242059d2530be003"
+  },
+  {
+    "path": "images/scan-setup-2.jpg",
+    "bytes": 220384,
+    "sha256": "46ecd8d1b086ddd7da7410f8fa2b9f1cae3d6d7733ac4aa7b21503ea672a492a"
+  },
+  {
+    "path": "images/scan-setup-3.jpg",
+    "bytes": 204781,
+    "sha256": "843590239029b6f397e1bd42e560d61aea861b8a6785a8a2a001fb2a57d892e4"
+  },
+  {
+    "path": "images/settings.jpg",
+    "bytes": 139010,
+    "sha256": "950a4fb72c42424cdfb428c880e36bb48ec1e582d319026d3e844751fa22c4fd"
+  },
+  {
+    "path": "images/setup.jpg",
+    "bytes": 286550,
+    "sha256": "8de99453f8e4c0fdec9ad72593a219169aadd87ceff77e6624e8f0bfa3189b12"
+  },
+  {
+    "path": "images/software-download.jpg",
+    "bytes": 250059,
+    "sha256": "55bfd5162d1402df8e710b09a3b40276ce161e7799f6c4cd9da5de352ad27a3f"
+  },
+  {
+    "path": "images/unconnected.jpg",
+    "bytes": 247009,
+    "sha256": "62a34c021c4b441d55346f23d18fea8467d36e91943c8a49ac085ba24adb7769"
+  },
+  {
+    "path": "images/version.jpg",
+    "bytes": 241222,
+    "sha256": "1baebcd3adc49e07b9a7846f932300a29d2cb8928c8e9855c31064ee6ffb577a"
+  },
+  {
+    "path": "images/white.jpg",
+    "bytes": 130440,
+    "sha256": "6a7964b4097fffac14bc7f2da6cf6021ff66af84995141bde510cc6e0973edfe"
+  },
+  {
+    "path": "models/pop2/1116_03_mesh.ply",
+    "bytes": 32049300,
+    "sha256": "e1f6aa03287aba7cf5e4d62c8ca82d1405271df0dca7dfa7fb94b33f93ad2eb3"
+  },
+  {
+    "path": "models/pop2/1116_04_mesh.ply",
+    "bytes": 5603450,
+    "sha256": "6bc85c0871891af6319332a1aa6674a213fccb09e3b240eafc517372cf44ca95"
+  },
+  {
+    "path": "models/processed/01_rei_figure_clean.stl",
+    "bytes": 20558484,
+    "sha256": "ecdaf8ddfe2a82f4896e9cf17c2b3f9e110f9b8b91f59d26476dd64eb0ec51e7"
+  },
+  {
+    "path": "models/processed/02_plinth_base.stl",
+    "bytes": 684,
+    "sha256": "5dd89999aa35ecd2b7ddd247f7259a3ba41ef0ff87a99a784c4b601aa9dd29fe"
+  },
+  {
+    "path": "models/processed/03_rei_display_piece.stl",
+    "bytes": 16916584,
+    "sha256": "d82cc04f274a5bee5863864b4143a20cf6a5a8e005f185235cf5caaee2a046af"
+  },
+  {
+    "path": "models/processed/mesh-checks.json",
+    "bytes": 1181,
+    "sha256": "ba51a3c77d68cf99fec6d19d40815c5462c129d1180afb3941da298d05982018"
+  },
+  {
+    "path": "models/realityscan/Rei.mtl",
+    "bytes": 204,
+    "sha256": "f305228d887449ea65d1a5e399125944ec6815f5a455d421d7bafd7b590f48ad"
+  },
+  {
+    "path": "models/realityscan/Rei.obj",
+    "bytes": 17985249,
+    "sha256": "dc0e61769b8ca6421cfdd6622c95b8322ff2d914fc00435230abb40354a4167c"
+  },
+  {
+    "path": "models/realityscan/tex_u1_v1_diffuse.jpg",
+    "bytes": 3729722,
+    "sha256": "9adb17f49aed3431dc2f87f45c4237653d7ae00deaf444cb7beefa76b268d661"
+  },
+  {
+    "path": "models/realityscan/tex_u1_v1_normal.jpg",
+    "bytes": 3364188,
+    "sha256": "a138f064ddcc04b138d04626cc65759b6e62d2c776592c8838aa9d155bd5c16e"
+  },
+  {
+    "path": "README.en.md",
+    "bytes": 11106,
+    "sha256": "5730c7f1673bfb32ecd66a9384f1d6768229037e5f802e997e67d68886b25280"
+  },
+  {
+    "path": "README.md",
+    "bytes": 10006,
+    "sha256": "51468648524a881a37b8e86f6136be8defc55c9587ce11630ee0415e80426cc2"
+  },
+  {
+    "path": "scan-20261116-bilingual-review.html",
+    "bytes": 14441347,
+    "sha256": "90e28931ecba3f3c82a6c6d284efe019a73a89e69e850634a52c0b331c5a402c"
+  },
+  {
+    "path": "source/record-original.txt",
+    "bytes": 3803,
+    "sha256": "d838d9c8c296435aacb144c37ed804d79da229786bab7556ae65529d89b34248"
+  },
+  {
+    "path": "source/scan-diary-original.docx",
+    "bytes": 15683,
+    "sha256": "51c639920e0ce16d384ee78eb3a94732d91225281f2c23a6b2b31fb2706ea0aa"
+  },
+  {
+    "path": "source/stage3_display_piece.blend",
+    "bytes": 21661112,
+    "sha256": "a0ba6c3c23bbaa415472c6258b6f68f92f2b944688a00aab4d8f227fc173066f"
+  },
+  {
+    "path": "source-inventory.csv",
+    "bytes": 21530,
+    "sha256": "b2133cb0c67b20855811cfc2b4e1318a02bd31709d1909be3fb39133b98515b0"
+  }
+]

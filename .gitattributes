@@ -1,0 +1,2 @@
+# Preserve original document and model bytes, including line endings.
+assignments/assignment-01/** -text
