@@ -1,4 +1,4 @@
-# 2026.11.16 How Things Are Made Assignment 3D Scanning Record
+# 2026.11.16 How Things Are Made · Assignment 1 · 3D Scanning Record
 
 [中文](README.md) | [English](README.en.md)
 
@@ -18,93 +18,93 @@ This is the first assignment for How Things Are Made, titled Digital Bodies: Sca
 
 When connecting Revo Scan, I ran into a connection problem. After trying to connect it to the laptop through USB and Type-C, I found that the problem was the app version. The scanner I was using in the Fab Lab was a POP2, but I had downloaded an incompatible version, Revo Scan 6. After downloading Revo Scan 5, I connected successfully.
 
-![扫描仪扫描 (16)](images/setup.jpg)
+![Scanner setup](images/setup.jpg)
 
-![连接电脑阶段 (3)](images/device-view.jpg)
+![Connecting to the laptop (3)](images/device-view.jpg)
 
-![连接电脑阶段 (4)](images/cables.jpg)
+![Connecting to the laptop (4)](images/cables.jpg)
 
-![连接电脑阶段 (11)](images/connection.jpg)
+![Connecting to the laptop (11)](images/connection.jpg)
 
-![连接电脑阶段 (8)](images/software-download.jpg)
+![Connecting to the laptop (8)](images/software-download.jpg)
 
-![连接电脑阶段 (7)](images/version.jpg)
+![Connecting to the laptop (7)](images/version.jpg)
 
 ## 2. Unstable scanner performance
 
 Unfortunately, the scanner seems to have started having problems around noon today. It was very unstable during scanning, and the final results were disappointing. Today, it could not scan smooth surfaces consistently. The scanned surfaces looked like muddy ground: all the detail was lost, and there were also surface discontinuities and shifts. At the point-cloud stage, the number of captured points was clearly insufficient, and the result after one-click processing was pretty disgusting too.
 
-![扫描仪扫描 (12)](images/scan-setup-2.jpg)
+![Scanner setup (12)](images/scan-setup-2.jpg)
 
-![扫描仪扫描 (13)](images/scan-setup-3.jpg)
+![Scanner setup (13)](images/scan-setup-3.jpg)
 
 ## 3. Scanning the plaster model and the mouse
 
 I tried scanning a small plaster model in the lab, but the facial detail was extremely poor: it was barely recognizable as a human face. I then chose my mouse as the scanning subject. Its surface was originally smooth and curved, but the scanned result looked like a toad. I first placed the mouse upright on the turntable and scanned its upper part, then turned it bottom-side up and scanned the underside. Both scans contained errors and missing detail. My original plan was to align the scans of the top and bottom to obtain one complete model, but because of the problems with detail and accuracy, I did not get a satisfactory result in the end.
 
-![失去的面部细节](images/face.jpg)
+![Lost facial detail](images/face.jpg)
 
-![失败的石膏模型 (1)](images/plaster-side.jpg)
+![Failed plaster scan (1)](images/plaster-side.jpg)
 
-![失败的石膏模型 (2)](images/plaster-front.jpg)
+![Failed plaster scan (2)](images/plaster-front.jpg)
 
-![错位的石膏模型](images/offset.jpg)
+![Misaligned plaster scan](images/offset.jpg)
 
-![不平整的鼠标模型](images/mouse-cloud.jpg)
+![Uneven mouse point cloud](images/mouse-cloud.jpg)
 
-![不平整的鼠标模型 (1)](images/mouse.jpg)
+![Uneven mouse model (1)](images/mouse.jpg)
 
-![不平整的鼠标模型 (3)](images/mouse-other.jpg)
+![Uneven mouse model (3)](images/mouse-other.jpg)
 
 ## 4. Trying to align the mouse scans
 
 During alignment, I tried selecting matching points, but the model accuracy was low and there was some misalignment. The alignment result was not as good as I had imagined.
 
-![拼合模型 (1)](images/alignment.jpg)
+![Aligning the scans (1)](images/alignment.jpg)
 
-![拼合模型 (2)](images/alignment-alt.jpg)
+![Aligning the scans (2)](images/alignment-alt.jpg)
 
 ## 5. Connecting Revo Scan on a phone
 
 I also tried Revo Scan on a phone, but there were connection problems. I suspected poor contact in the connection; in any case, it would not stay connected reliably. Considering that the scanner was malfunctioning, I did not continue trying.
 
-![扫描仪扫描 (9)](images/mobile-revo.jpg)
+![Scanner setup (9)](images/mobile-revo.jpg)
 
 ## 6. Switching to RealityScan and a different object
 
 In the end, I decided to try RealityScan on a phone to take photographs and generate a 3D model. The instructions in the mobile RealityScan app stated that it was better suited to scanning food, plush objects or natural surfaces, and less suited to smooth, flat surfaces. My guess here was that analyzing 3D data from photographs could not locate points as precisely as a scanner using structured light and lasers, so the resulting model surfaces were also rougher. However, the advantage of this app was that its textures were beautiful: they could accurately display the materials and details of the objects in the photographs through texture maps. As a result, the final output was at least visually attractive. The actual model, however, still needed further refinement. This is also why I eventually changed the object I was scanning and chose a plush toy: its surface was more uneven.
 
-![手机扫描鼠标 (2)](images/phone-mouse.jpg)
+![Phone scan of the mouse (2)](images/phone-mouse.jpg)
 
-![手机扫描鼠标 (4)](images/phone-mouse-alt.jpg)
+![Phone scan of the mouse (4)](images/phone-mouse-alt.jpg)
 
-![手机扫描操作 (1)](images/phone-start.jpg)
+![Phone capture (1)](images/phone-start.jpg)
 
-![手机扫描操作 (2)](images/capture.jpg)
+![Phone capture (2)](images/capture.jpg)
 
 ## 7. Capture lighting and point-cloud checks
 
 When using RealityScan, I first selected Object Mode. I placed the object on a flat surface and took photographs from all directions through continuous manual or automatic capture. One thing to pay attention to here is that the photographs need to be continuous, clear and complete; otherwise, a large amount of Unconnected content will appear later. In the point cloud generated after my first 72 photographs, I noticed many gaps in the darker areas. I tried adding lighting and taking more photographs, which filled in some of the darker areas. Ultimately, though, I thought I should have prepared a complete lighting setup from the beginning to make sure that every side of the object could be captured properly. In the darker areas I tried to fill in, the added lighting created unnatural transitions between light and dark. This is something I think I did not do well enough this time.
 
-![手机扫描操作 (3)](images/phone-generation.jpg)
+![Phone capture (3)](images/phone-generation.jpg)
 
-![手机扫描操作 (4)](images/cloud.jpg)
+![Phone capture (4)](images/cloud.jpg)
 
-![手机扫描操作 (6)](images/phone-cloudprogress.jpg)
+![Phone capture (6)](images/phone-cloudprogress.jpg)
 
-![手机扫描操作 (7)](images/unconnected.jpg)
+![Phone capture (7)](images/unconnected.jpg)
 
-## 8. Model generation export and untextured comparison
+## 8. Model generation, export and untextured comparison
 
 Finally, after checking the point cloud four or five times, I generated the model. In the generation options, I chose Water-tight Mesh, so that the result would be a complete model, with areas lacking detail filled in intelligently by the algorithm. To get a better result, I also chose higher quality and 8K textures. The result had a very good visual appearance in terms of its materials, while the untextured mesh did still have some rough surfaces and details. I will continue modifying and improving it.
 
-![手机扫描操作 (5)](images/settings.jpg)
+![Phone capture (5)](images/settings.jpg)
 
-![手机扫描操作 (8)](images/phone-completed.jpg)
+![Phone capture (8)](images/phone-completed.jpg)
 
-![微信图片_20261116232548_837_63](images/result.jpg)
+![Textured result](images/result.jpg)
 
-![白模](images/white.jpg)
+![Untextured mesh](images/white.jpg)
 
 ## 9. Tidying up the model and adding a base in Blender
 
