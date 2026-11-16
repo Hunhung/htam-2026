@@ -9,7 +9,7 @@
 
 2026.11.16 · Digital Bodies: Scan, Mix & Modify
 
-[中文记录](assignments/assignment-01/README.md) · [English](assignments/assignment-01/README.en.md)
+[中文记录](assignments/assignment-01/README.md) · [English](assignments/assignment-01/README.en.md) · [双语网页版（在线）](https://hunhung.github.io/htam-2026/assignments/assignment-01/scan-20261116-bilingual-review.html)
 
 记录包含扫描尝试、问题与心得、Blender 手动整理、底座组合，以及模型文件下载。
 

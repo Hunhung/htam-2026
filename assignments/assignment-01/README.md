@@ -4,7 +4,7 @@
 
 [文件清单](source-inventory.csv)
 
-[双语网页文件](scan-20261116-bilingual-review.html) · [原文 TXT](source/record-original.txt)
+[双语网页（在线浏览）](https://hunhung.github.io/htam-2026/assignments/assignment-01/scan-20261116-bilingual-review.html) · [原文 TXT](source/record-original.txt)
 
 ## 背景与作业要求
 

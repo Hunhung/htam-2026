@@ -4,7 +4,7 @@
 
 [File inventory](source-inventory.csv)
 
-[Bilingual HTML file](scan-20261116-bilingual-review.html) · [Original Chinese TXT](source/record-original.txt)
+[Bilingual HTML page (online)](https://hunhung.github.io/htam-2026/assignments/assignment-01/scan-20261116-bilingual-review.html) · [Original Chinese TXT](source/record-original.txt)
 
 ## Background and assignment requirements
 
