@@ -4,7 +4,7 @@
 
 [文件清单](source-inventory.csv)
 
-[双语网页（在线浏览）](https://hunhung.github.io/htam-2026/assignments/assignment-02/print-20261122-bilingual-review.html) · [原文 TXT](source/record-original.txt)
+[双语网页（在线浏览）](https://hunhung.github.io/htam-2026/assignments/assignment-02/print-20261122-bilingual-review.html) · [原始记录 TXT](source/原始记录.txt)
 
 ## 背景与作业要求
 
@@ -125,8 +125,7 @@
 | [尺寸图 PDF 审查版](downloads/cad-review-a.pdf) | 装配、零件三视图和连接剖面，共 4 页 |
 | [二维 DXF 审查版](downloads/cad-review-a.dxf) | 可继续编辑的二维线稿 |
 | [原始 Word 记录](source/print-diary-original.docx) | 保留作者提交的原始文档 |
-| [原始中文 TXT](source/record-original.txt) | 原始中文全文 |
-| [间隙数值更正后的 TXT](source/record-corrected.txt) | 更正已确认的孔销间隙数值 |
+| [原始记录 TXT](source/原始记录.txt) | 本次 3D 打印的文字记录 |
 | [原始素材对应清单](source-inventory.csv) | 31 张照片与原文件的对应关系 |
 
 尺寸图为先前制作的审查版，依据最终打印 STL 生成，尚未作为 Fusion 原生关联工程图确认。最新版 Fusion 原生模型与对应的最终切片文件将在版本核对后补充。

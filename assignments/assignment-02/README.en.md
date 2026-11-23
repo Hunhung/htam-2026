@@ -4,7 +4,7 @@
 
 [File inventory](source-inventory.csv)
 
-[Bilingual HTML page (online)](https://hunhung.github.io/htam-2026/assignments/assignment-02/print-20261122-bilingual-review.html) · [Original Chinese TXT](source/record-original.txt)
+[Bilingual HTML page (online)](https://hunhung.github.io/htam-2026/assignments/assignment-02/print-20261122-bilingual-review.html) · [Original record TXT](source/原始记录.txt)
 
 ## Background and assignment requirements
 
@@ -125,8 +125,7 @@ To remove the finished parts from the printer, I took out the build plate and ge
 | [Dimensioned PDF drawing for review](downloads/cad-review-a.pdf) | Four sheets: assembly, part views, and connection section |
 | [2D DXF drawing for review](downloads/cad-review-a.dxf) | Editable 2D linework |
 | [Original Word record](source/print-diary-original.docx) | The original document supplied by the author |
-| [Original Chinese TXT](source/record-original.txt) | The complete original Chinese record |
-| [Chinese TXT with corrected clearances](source/record-corrected.txt) | The confirmed pin-and-hole clearance correction |
+| [Original record TXT](source/原始记录.txt) | Written record of the 3D printing assignment |
 | [Source asset inventory](source-inventory.csv) | Mapping of all 31 photographs to their source files |
 
 The dimensioned drawings are the earlier review version, generated from the final print STL files. They have not been confirmed as native associative Fusion drawings. The latest native Fusion model and corresponding final slicing files will be added after version checking.
