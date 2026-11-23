@@ -68,11 +68,10 @@
 
 <details>
 
-<summary>其余第一次打印照片（7 张）</summary>
+<summary>其余第一次打印照片（6 张）</summary>
 
 
 
-![第一次打印过程 1](images/first-print-1.jpg)
 
 ![第一次打印过程 3](images/first-print-3.jpg)
 
@@ -128,6 +127,6 @@
 | [原始 Word 记录](source/print-diary-original.docx) | 保留作者提交的原始文档 |
 | [原始中文 TXT](source/record-original.txt) | 原始中文全文 |
 | [间隙数值更正后的 TXT](source/record-corrected.txt) | 更正已确认的孔销间隙数值 |
-| [原始素材对应清单](source-inventory.csv) | 32 张照片与原文件的对应关系 |
+| [原始素材对应清单](source-inventory.csv) | 31 张照片与原文件的对应关系 |
 
 尺寸图为先前制作的审查版，依据最终打印 STL 生成，尚未作为 Fusion 原生关联工程图确认。最新版 Fusion 原生模型与对应的最终切片文件将在版本核对后补充。

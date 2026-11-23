@@ -68,11 +68,10 @@ Halfway through the first print, the tree supports had already developed problem
 
 <details>
 
-<summary>More photographs of the first print (7)</summary>
+<summary>More photographs of the first print (6)</summary>
 
 
 
-![First print process 1](images/first-print-1.jpg)
 
 ![First print process 3](images/first-print-3.jpg)
 
@@ -128,6 +127,6 @@ To remove the finished parts from the printer, I took out the build plate and ge
 | [Original Word record](source/print-diary-original.docx) | The original document supplied by the author |
 | [Original Chinese TXT](source/record-original.txt) | The complete original Chinese record |
 | [Chinese TXT with corrected clearances](source/record-corrected.txt) | The confirmed pin-and-hole clearance correction |
-| [Source asset inventory](source-inventory.csv) | Mapping of all 32 photographs to their source files |
+| [Source asset inventory](source-inventory.csv) | Mapping of all 31 photographs to their source files |
 
 The dimensioned drawings are the earlier review version, generated from the final print STL files. They have not been confirmed as native associative Fusion drawings. The latest native Fusion model and corresponding final slicing files will be added after version checking.
